@@ -141,7 +141,6 @@ While building this project, I learned more about:
 
 - GitHub: [@maimunahmed2](https://github.com/maimunahmed2)
 - LinkedIn: [Maimun Ahmed](https://linkedin.com/in/maimunatwork)
-- Portfolio: [Visit Portfolio](https://upbeat-rabbit-b1e2d.rehost.site/)
 
 ## License
 
